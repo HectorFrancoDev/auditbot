@@ -1,0 +1,7 @@
+Auditorias - Cuestionarios normativos e informes de auditoría  ---->  informes de auditoría
+Auditorias - Estado planes de acción  ---->  mis planes de acción
+Auditorias - Project Plan  ---->  auditorias project plan
+Auditorias - Tiempos de ejecución de auditorías de cumplimiento  ---->  Tiempos de ejecución auditorías
+Bienvenida Intent  ---->  hola
+Opciones Auditorias  ---->  opciones
+Respuesta solicitud documento  ----> contextobienvenidasalida
